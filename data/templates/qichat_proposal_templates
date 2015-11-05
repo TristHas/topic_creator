@@ -1,0 +1,3 @@
+proposal:{sentence1}
+proposal:[{word1} {word2}]
+proposal:[{word1} {word2}] {sentence1}

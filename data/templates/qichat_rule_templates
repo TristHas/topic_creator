@@ -1,0 +1,5 @@
+u:({sentence1}) {sentence1}
+u:([{word1} {word2}] {sentence1}) {sentence2}
+u:({sentence1}) {sentence2} [{word1} {word2}]
+u:({sentence1}) [{word1} {word2}] {sentence2}
+u:([{word1} {word2} {sentence1}]) [{sentence1} {sentence2}] {word3} [{sentence1} {sentence2}]
